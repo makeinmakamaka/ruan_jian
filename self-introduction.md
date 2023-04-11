@@ -83,7 +83,7 @@
 #### 姓名
 张迎娣
 
-<img src="./img/zyd.jpg" width="25px">
+<img src="./img/zyd.jpg" width="100px">
 #### 教育背景
 + 学院：华中师范大学计算机学院
 + 专业：计算机科学与技术（基地班）
