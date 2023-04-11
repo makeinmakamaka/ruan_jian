@@ -81,8 +81,9 @@
 ### 组员4
 #### 姓名
 张迎娣
-<img src="./img/zyd.jpg" alt="Yingdi Zhang" style="zoom:25%;" />
 
+
+<img src="./img/zyd.jpg" alt="Yingdi Zhang" style="zoom:10%;" />
 
 #### 教育背景
 + 学院：华中师范大学计算机学院
