@@ -83,8 +83,6 @@
 张迎娣
 
 
-<img src="./img/zyd.jpg" alt="Yingdi Zhang" style="zoom:1%;" />
-
 #### 教育背景
 + 学院：华中师范大学计算机学院
 + 专业：计算机科学与技术（基地班）
